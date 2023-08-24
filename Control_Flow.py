@@ -1,5 +1,6 @@
 # Task 1 - basic math operations
 
+
 for i in range(3):
 
     num = int(input('Please enter a number: '))
